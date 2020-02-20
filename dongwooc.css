@@ -1,3 +1,4 @@
 .headeroid { background-color:lavenderblush; box-shadow:5px 5px; margin:5px; padding:10px; overflow:hidden; }
 .columnoid { display: block; border-radius: 10px; background-color: lavender; margin:15px; padding:15px}
 @media (min-width:1000px) { .columnoid { float: left; width: 27%; padding:1.5%; margin: 1.5%;} }
+.grievous { display: none; }
